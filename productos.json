@@ -1,0 +1,98 @@
+[
+    {
+        "sku": 1,
+        "vehiculo": "Auto",
+        "marca": "Mercedes Benz",
+        "autoparte": "Asiento de valvula",
+        "stock": 100,
+        "precio": 1500
+    },
+    {
+        "sku": 2,
+        "vehiculo": "Auto",
+        "marca": "Mercedes Benz",
+        "autoparte": "Guia de valvula",
+        "stock": 100,
+        "precio": 1000
+    },
+    {
+        "sku": 3,
+        "vehiculo": "Auto",
+        "marca": "Mercedes Benz",
+        "autoparte": "Valvula",
+        "stock": 100,
+        "precio": 2500
+    },
+    {
+        "sku": 4,
+        "vehiculo": "Auto",
+        "marca": "BMW",
+        "autoparte": "Asiento de valvula",
+        "stock": 100,
+        "precio": 1800
+    },
+    {
+        "sku": 5,
+        "vehiculo": "Auto",
+        "marca": "BMW",
+        "autoparte": "Guia de valvula",
+        "stock": 100,
+        "precio": 900
+    },
+    {
+        "sku": 6,
+        "vehiculo": "Auto",
+        "marca": "BMW",
+        "autoparte": "Valvula",
+        "stock": 100,
+        "precio": 2000
+    },
+    {
+        "sku": 7,
+        "vehiculo": "Moto",
+        "marca": "Yamaha",
+        "autoparte": "Asiento de valvula",
+        "stock": 100,
+        "precio": 600
+    },
+    {
+        "sku": 8,
+        "vehiculo": "Moto",
+        "marca": "Yamaha",
+        "autoparte": "Guia de valvula",
+        "stock": 100,
+        "precio": 500
+    },
+    {
+        "sku": 9,
+        "vehiculo": "Moto",
+        "marca": "Yamaha",
+        "autoparte": "Valvula",
+        "stock": 100,
+        "precio": 800
+    },
+    {
+        "sku": 10,
+        "vehiculo": "Moto",
+        "marca": "Kawasaki",
+        "autoparte": "Asiento de valvula",
+        "stock": 100,
+        "precio": 700
+    },
+    {
+        "sku": 11,
+        "vehiculo": "Moto",
+        "marca": "Kawasaki",
+        "autoparte": "Guia de valvula",
+        "stock": 100,
+        "precio": 600
+    },
+    {
+        "sku": 12,
+        "vehiculo": "Moto",
+        "marca": "Kawasaki",
+        "autoparte": "Valvula",
+        "stock": 100,
+        "precio": 900
+    }
+]
